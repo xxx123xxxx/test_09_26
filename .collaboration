@@ -157,5 +157,25 @@
     },
     "LockDateTime": "2021-09-26T10:44:41.8091318+08:00",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "PCPage/test_skip_1_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T10:45:02.7474177+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/test_skip_1_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T10:45:02.7474177+08:00",
+    "ModuleType": 1
   }
 ]
