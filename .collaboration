@@ -141,7 +141,17 @@
   },
   {
     "ModuleName": "Table/test_skip_1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T15:52:57.0051593+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\test_skip_1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   }
 ]
