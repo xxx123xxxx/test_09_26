@@ -133,7 +133,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T18:25:04.3542029+08:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet"
+    ]
   },
   {
     "ModuleName": "Upload",
@@ -146,7 +155,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-26T18:24:52.466815+08:00",
+    "LockDateTime": "2021-09-26T18:25:04.3542029+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\表1.json",
@@ -161,7 +170,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-26T18:24:52.466815+08:00",
+    "LockDateTime": "2021-09-26T18:25:04.3542029+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\表2.json",
@@ -176,8 +185,19 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-26T18:24:52.466815+08:00",
+    "LockDateTime": "2021-09-26T18:25:04.3542029+08:00",
     "ModuleType": 23,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/test_skip_1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T18:25:04.3542029+08:00",
+    "ModuleType": 7,
     "ExclusiveType": 0
   }
 ]
