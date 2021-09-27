@@ -166,5 +166,55 @@
     },
     "LockDateTime": "2021-09-27T10:26:02.8707442+08:00",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/音频集合",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:26:26.0510526+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/视频集合",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:26:26.0510526+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/test_skip_2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:26:26.0510526+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/PostgreSql_cindy_test",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:26:26.0510526+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/newTable",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:26:26.0510526+08:00",
+    "ModuleType": 7
   }
 ]
