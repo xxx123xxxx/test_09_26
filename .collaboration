@@ -141,17 +141,7 @@
   },
   {
     "ModuleName": "Table/表1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-27T10:27:36.5658033+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\表1.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -160,17 +150,7 @@
   },
   {
     "ModuleName": "Table/表2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-27T10:27:36.5658033+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\文件夹1\\表2.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -187,42 +167,15 @@
   },
   {
     "ModuleName": "Table/视频集合",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-27T10:27:45.2062829+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\文件夹2\\视频集合.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/test_skip_2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-27T10:27:45.2062829+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\文件夹2\\test_skip_2.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/PostgreSql_cindy_test",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-27T10:27:45.2062829+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\文件夹2\\PostgreSql_cindy_test.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/newTable",
@@ -230,13 +183,6 @@
   },
   {
     "ModuleName": "Tables/文件夹2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-27T10:27:45.2062829+08:00",
-    "ModuleType": 22,
-    "ToRemoveFiles": []
+    "ModuleType": 22
   }
 ]
