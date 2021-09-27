@@ -203,7 +203,16 @@
   },
   {
     "ModuleName": "Table/视频集合",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:29:01.0145642+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹2\\视频集合.json"
+    ]
   },
   {
     "ModuleName": "Table/test_skip_2",
