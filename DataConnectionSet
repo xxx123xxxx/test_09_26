@@ -1,2 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DataConnectionSet />
+<DataConnectionSet>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>Host=xa-dd3-fgcp13d8.grapecity.net;Username=postgres;Password=xA20200326;Database=cindytest</ConnectionString>
+    <DataBaseType>PostgreSQL</DataBaseType>
+    <ID>68006bdb-8d42-478a-a3a7-cb759b1a9b2a</ID>
+  </Item>
+</DataConnectionSet>
