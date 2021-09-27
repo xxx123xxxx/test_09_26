@@ -141,48 +141,145 @@
   },
   {
     "ModuleName": "Table/表1",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\表1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/文件夹1",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Table/表2",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹1\\表2.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/test_skip_1",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹1\\test_skip_1.json"
+    ]
   },
   {
     "ModuleName": "Table/视频_封面",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\视频_封面.json"
+    ]
   },
   {
     "ModuleName": "Table/音频集合",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\音频集合.json"
+    ]
   },
   {
     "ModuleName": "Table/视频集合",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹2\\视频集合.json"
+    ]
   },
   {
     "ModuleName": "Table/test_skip_2",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹2\\test_skip_2.json"
+    ]
   },
   {
     "ModuleName": "Table/PostgreSql_cindy_test",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\文件夹2\\PostgreSql_cindy_test.json"
+    ]
   },
   {
     "ModuleName": "Table/newTable",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\newTable.json"
+    ]
   },
   {
     "ModuleName": "Tables/文件夹2",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-27T10:31:57.1575591+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   }
 ]
